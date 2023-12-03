@@ -1,0 +1,146 @@
+{
+    "Datos_Docentes": {
+        "Docente_lista": [
+            {
+                "nombre_titulo": "Patricia Quiroz",
+                "datos_lista": [
+                    "Cédula = 1317233111",
+                    "Nombres = Patricia Alexandra ",
+                    "Apellidos = Quiroz Palma ",
+                    "Correo = patriciaquiroz@live.uleam.edu.ec",
+                    "Facultad = Facultad Ciencias De La Vida Y Tecnologia",
+                    "Carrera = Tecnología de la Información",
+                    "Asignatura = Aplicaciones Web I",
+                    "Curso = Quinto",
+                    "Paralelo = A - B - c"
+                ]
+            },
+            {
+                "nombre_titulo": "Klever Delgado",
+                "datos_lista": [
+                    "Cédula = 1356432345",
+                    "Nombres = klever ",
+                    "Apellidos = Delgado ",
+                    "Correo = KleverDelgado@live.uleam.edu.ec",
+                    "Facultad = Facultad Ciencias De La Vida Y Tecnologia",
+                    "Carrera = Tecnología de la Información",
+                    "Asignatura = Deontologia Profecional",
+                    "Curso = Octavo",
+                    "Paralelo = B"
+                ]
+            },
+            {
+                "nombre_titulo": "William Delgado",
+                "datos_lista": [
+                    "Cédula = 1234237890",
+                    "Nombres = William ",
+                    "Apellidos = Delgado Zamora ",
+                    "Correo = williamdelgadz@live.uleam.edu.ec",
+                    "Facultad = Facultad Ciencias De La Vida Y Tecnologia",
+                    "Carrera = Tecnología de la Información",
+                    "Asignatura = Base de Datos",
+                    "Curso = Tercero",
+                    "Paralelo = C"
+                ]
+            },
+            {
+                "nombre_titulo": "Robert Moreira",
+                "datos_lista": [
+                    "Cédula = 1323453423",
+                    "Nombres = Robert Wilfrido",
+                    "Apellidos = Moreira Centeno ",
+                    "Correo = robertmoreira12@live.uleam.edu.ec",
+                    "Facultad = Facultad Ciencias De La Vida Y Tecnologia",
+                    "Carrera = Tecnología de la Información",
+                    "Asignatura = Gestión de Base de Datos",
+                    "Curso = Cuarto",
+                    "Paralelos = A, C"
+                ]
+            },
+            {
+                "nombre_titulo": "Jonny Peréz ",
+                "datos_lista": [
+                    "Cédula = 1315342367",
+                    "Nombres = Jonny Vicente ",
+                    "Apellidos = Peréz Veliz ",
+                    "Correo = jonnyperezzv@live.uleam.edu.ec",
+                    "Facultad = Facultad Ciencias De La Vida Y Tecnologia",
+                    "Carrera = Tecnología de la Información",
+                    "Asignatura = Interface y multimedia",
+                    "Curso = Quinto",
+                    "Paralelos = B, C"
+                ]
+            },
+            {
+                "nombre_titulo": "Juan Sendón",
+                "datos_lista": [
+                    "Cédula = 1313567845",
+                    "Nombres = Juan Carlos ",
+                    "Apellidos = Sendón Valera ",
+                    "Correo = juansendonv@live.uleam.edu.ec",
+                    "Facultad = Facultad Ciencias De La Vida Y Tecnologia",
+                    "Carrera = Tecnología de la Información",
+                    "Asignatura = Redes de Computadoras",
+                    "Curso = Sexto C",
+                    "Paralelos = C"
+                ]
+            },
+            {
+                "nombre_titulo": "Elsa Vera",
+                "datos_lista": [
+                    "Cédula = 1512345656",
+                    "Nombres = Elsa  ",
+                    "Apellidos = vera ",
+                    "Correo = ElsaVera@live.uleam.edu.ec",
+                    "Facultad = Facultad Ciencias De La Vida Y Tecnologia",
+                    "Carrera = Tecnología de la Información",
+                    "Asignatura = Programacion Orientada a Objetos",
+                    "Curso = Tercero",
+                    "Paralelos = A, B"
+                ]
+            },
+            {
+                "nombre_titulo": "Winter Molina",
+                "datos_lista": [
+                    "Cédula = 1345237856",
+                    "Nombre = Winter Abel",
+                    "Apellidos = Molina Loor ",
+                    "Correo = wintermolina@live.uleam.edu.ec",
+                    "Facultad = Facultad Ciencias De La Vida Y Tecnologia",
+                    "Carrera= Tecnología de la Información",
+                    "Asignatura = Ingeniería de software I",
+                    "Curso = Octavo",
+                    "Paralelos = B"
+                ]
+            },
+            {
+                "nombre_titulo": "Mariuxi Bruzza",
+                "datos_lista": [
+                    "Cédula = 1345237856",
+                    "Nombres = Mariuxi ",
+                    "Apellidos = Bruzza",
+                    "Correo = MariuxiBruzza@live.uleam.edu.ec",
+                    "Facultad = Facultad Ciencias De La Vida Y Tecnologia",
+                    "Carrera = Ingeniería en Sistemas",
+                    "Asignatura = Gestion De Proyectos ",
+                    "Curso = Octavo",
+                    "Paralelos = A, B"
+                ]
+            },
+            {
+                "nombre_titulo": "Edison Almeida",
+                "datos_lista": [
+                    "Cédula = 1345009956",
+                    "Nombres =Edison ",
+                    "Apellidos = Almeida Zambrano ",
+                    "Correo = edisonalmeida@live.uleam.edu.ec",
+                    "Facultad = Facultad Ciencias De La Vida Y Tecnologia",
+                    "Carrera = Ingeniería en Sistemas",
+                    "Asignatura = Aplicacvion Sistemas Operativos ",
+                    "Curso = Quinto",
+                    "Paralelos = A, B, C"
+                ]
+            }
+        ]
+    }
+}

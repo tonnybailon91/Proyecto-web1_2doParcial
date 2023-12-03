@@ -1,0 +1,45 @@
+</html>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Docentes,  Gestión De Sílabo </title>
+    <link rel="stylesheet" href="css/docente.css">
+	<link href="https://fonts.googleapis.com/css2?family=Baloo+Tamma+2&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="cabecera">
+        <img class="logo" src="img/logo.png" alt=""> 
+        <img class="logosilabo" src="img/silabo.png" alt="">  
+        <h1>Automatización de sílabos</h1>
+    </div>
+    </div>
+    <div class="container">
+    <p>Por favor, seleccione el docente en el siguiente listado para ver sus datos:</p>
+    <form  action="">
+        <select onchange="mostrar(this.value)">
+            <option value="none">Seleccionar Docente</option>
+            <option value="Persona_1">Patricia Quiroz </option>
+            <option value="Persona_2">Klever Delgado </option>
+            <option value="Persona_3">William Delgado </option>
+            <option value="Persona_4">Robert Moreira</option>
+            <option value="Persona_5">Jonny Peréz </option>
+            <option value="Persona_6">Juan Sendón</option>
+            <option value="Persona_7">Elsa Vera </option>
+            <option value="Persona_8">Winter Molina </option>
+            <option value="Persona_9">Mariuxi Bruzza </option>
+            <option value="Persona_10">Edison Almeida </option>
+        </select>
+    </form>
+</div>
+    <br/>
+    <h2> <span id="txtInformacion"></span></h2>
+    <div id="listaDocentes"> </div>
+</body>
+
+</html>
+<script src="js/javaScript.js"></script>
